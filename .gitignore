@@ -1,1 +1,22 @@
+# Dependencies
 node_modules/
+package-lock.json
+
+# Electron & build
+dist/
+out/
+electron/
+*.dmg
+*.exe
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+npm-debug.log*
+*.tmp
+*~
